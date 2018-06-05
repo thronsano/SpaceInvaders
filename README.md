@@ -8,7 +8,7 @@ Includes a basic concept of vectors and movement inspired by my Unity game engin
 
 The project was equally created by each of the people mentioned.
 
-@thronsano
+@thronsano -> eg. movement system, entities, math, networking wrappers
 
 @aczech96
 
